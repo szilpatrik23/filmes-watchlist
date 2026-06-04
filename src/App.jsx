@@ -47,9 +47,7 @@ function App() {
 
   return (
     <>
-      {/* Ebbe a STYLE blokkba tettem bele a profi dizájnt! 
-        Így egyetlen fájlban marad minden, de mégis támogatja az egeres (hover) animációkat. 
-      */}
+      {/*  CSS stíle itt van*/}
       <style>{`
         body {
           margin: 0;
@@ -228,3 +226,4 @@ function App() {
 }
 
 export default App;
+
